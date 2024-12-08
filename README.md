@@ -1,8 +1,10 @@
-极客时间 AIOps 训练营作业
-Week1
+# 极客时间 AIOps 训练营作业
+
+## Week1
+
 使用 Terraform 创建腾讯云虚拟机并安装 Docker
 
-Week3
+## Week3
 1. 实现 Function Calling
 
 定义 modify_config 函数，入参：service_name，key，value
@@ -16,7 +18,8 @@ Week3
 帮我部署一个 deployment，镜像是 nginx
 
 
-Week6
+## Week6
+
 完善 chatgpt.go，实现 deleteResource 方法，能其能以对话的方式删除 K8s 资源。
 
 ```bash
